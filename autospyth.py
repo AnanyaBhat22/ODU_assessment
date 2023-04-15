@@ -1,4 +1,4 @@
-import locale
+
 import pandas as pd
 import matplotlib.pyplot as plt # This is used for plotting the graph
 
